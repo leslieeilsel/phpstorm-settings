@@ -4,8 +4,8 @@
       <mapping pattern="test" type="PHP" />
       <mapping pattern="PersonnelServices" type="PHP" />
       <mapping pattern=".editconfig" type="PLAIN_TEXT" />
-      <mapping pattern=".soar" type="PLAIN_TEXT" />
       <mapping pattern="0fe958c9e717d197825fe158a1e72c08946b7c76" type="PLAIN_TEXT" />
+      <mapping pattern=".soar" type="PLAIN_TEXT" />
       <mapping ext="neon" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
     </extensionMap>
