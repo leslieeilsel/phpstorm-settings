@@ -8,6 +8,7 @@
       <mapping pattern=".soar" type="PLAIN_TEXT" />
       <mapping ext="neon" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
+      <mapping ext="lnk" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
