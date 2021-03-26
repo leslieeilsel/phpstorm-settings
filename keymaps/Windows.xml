@@ -1,5 +1,7 @@
 <keymap version="1" name="Windows 副本" parent="$default">
+  <action id="Github.PullRequest.Diff.Comment.Create" />
   <action id="RunAnything">
-    <keyboard-shortcut first-keystroke="ctrl windows" />
+    <keyboard-shortcut first-keystroke="shift ctrl x" />
   </action>
+  <action id="com.jetbrains.php.framework.FrameworkRunConsoleAction" />
 </keymap>
