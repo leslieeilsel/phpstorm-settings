@@ -11,6 +11,17 @@
       </CLASSES>
       <SOURCES />
     </library>
+    <library name="cesiumTdt" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_api.tianditu.gov.cn_cdn_plugins_cesium_cesiumTdt.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_api.tianditu.gov.cn_cdn_plugins_cesium_cesiumTdt.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
     <library name="D3SvgOverlay" type="javaScript">
       <properties>
         <sourceFilesUrls>
@@ -30,6 +41,17 @@
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_popper.js_1.12.9_umd_popper.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="widgets" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cesiumjs.org_releases_1.74_Build_Cesium_Widgets_widgets.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cesiumjs.org_releases_1.74_Build_Cesium_Widgets_widgets.css" />
       </CLASSES>
       <SOURCES />
     </library>
