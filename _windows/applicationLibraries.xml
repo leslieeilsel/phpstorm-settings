@@ -47,10 +47,12 @@
     <library name="widgets" type="javaScript">
       <properties>
         <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cesiumjs.org_releases_1.58_Build_Cesium_Widgets_widgets.css" />
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cesiumjs.org_releases_1.74_Build_Cesium_Widgets_widgets.css" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cesiumjs.org_releases_1.58_Build_Cesium_Widgets_widgets.css" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cesiumjs.org_releases_1.74_Build_Cesium_Widgets_widgets.css" />
       </CLASSES>
       <SOURCES />
