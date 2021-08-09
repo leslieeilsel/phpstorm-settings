@@ -1,0 +1,12 @@
+<templateSet group="Ray">
+  <template name="pause" value="ray()-&gt;pause();" description="断点" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="measure" value="ray()-&gt;measure();" description="measure" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
