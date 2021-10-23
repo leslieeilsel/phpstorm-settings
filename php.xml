@@ -4,6 +4,7 @@
     <interpreters>
       <interpreter id="e3758246-5c18-484f-a468-fe17b77f9186" name="PHP 7.4" home="E:\php-7.4.6-ts\php.exe" debugger_id="php.debugger.XDebug" />
       <interpreter id="eabbf0b1-05e3-41fd-98c6-08f07f03dbcc" name="PHP 8.0" home="E:\php-8.0.0-ts\php.exe" debugger_id="php.debugger.XDebug" debugger_extension="E:\php-8.0.0-ts\ext\php_xdebug-3.0.3-8.0-vs16-x86_64.dll" />
+      <interpreter id="ce0f0c48-873a-4c0c-9e67-a6267fc4c932" name="PHP 8.0.12" home="E:\php-8.0.12-ts\php.exe" debugger_id="php.debugger.XDebug" debugger_extension="E:\php-8.0.12-ts\ext\php_xdebug.dll" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
@@ -105,7 +106,65 @@
             <extension name="pcre" />
             <extension name="pdo_mysql" />
             <extension name="readline" />
+            <extension name="redis" />
             <extension name="session" />
+            <extension name="sockets" />
+            <extension name="sodium" />
+            <extension name="standard" />
+            <extension name="tokenizer" />
+            <extension name="xdebug" />
+            <extension name="xml" />
+            <extension name="xmlreader" />
+            <extension name="xmlwriter" />
+            <extension name="zip" />
+            <extension name="zlib" />
+          </loaded_extensions>
+        </phpinfo>
+      </interpreter>
+      <interpreter name="PHP 8.0.12">
+        <phpinfo binary_type="PHP" php_cgi="E:\php-8.0.12-ts\php-cgi.exe" php_cli="E:\php-8.0.12-ts\php.exe" path_separator=";" version="8.0.12">
+          <additional_php_ini />
+          <configuration_file>E:\php-8.0.12-ts\php.ini</configuration_file>
+          <configuration_options>
+            <configuration_option name="include_path" value=".;C:\php\pear" />
+          </configuration_options>
+          <debuggers>
+            <debugger_info debugger="xdebug" debugger_version="3.1.1">
+              <debug_extensions />
+            </debugger_info>
+          </debuggers>
+          <loaded_extensions>
+            <extension name="Core" />
+            <extension name="PDO" />
+            <extension name="Phar" />
+            <extension name="Reflection" />
+            <extension name="SPL" />
+            <extension name="SimpleXML" />
+            <extension name="Zend OPcache" />
+            <extension name="bcmath" />
+            <extension name="bz2" />
+            <extension name="calendar" />
+            <extension name="ctype" />
+            <extension name="curl" />
+            <extension name="date" />
+            <extension name="dom" />
+            <extension name="fileinfo" />
+            <extension name="filter" />
+            <extension name="gd" />
+            <extension name="hash" />
+            <extension name="iconv" />
+            <extension name="intl" />
+            <extension name="json" />
+            <extension name="libxml" />
+            <extension name="mbstring" />
+            <extension name="mysqli" />
+            <extension name="mysqlnd" />
+            <extension name="openssl" />
+            <extension name="pcre" />
+            <extension name="pdo_mysql" />
+            <extension name="readline" />
+            <extension name="session" />
+            <extension name="sockets" />
             <extension name="sodium" />
             <extension name="standard" />
             <extension name="tokenizer" />
