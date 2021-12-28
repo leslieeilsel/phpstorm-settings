@@ -9,7 +9,7 @@
         <entry key="com.intellij.lang.javascript.highlighting.JSRecursiveCallLineMarkerProvider" value="true" />
         <entry key="com.intellij.lang.javascript.highlighting.TypeScriptSourceMappingLineMarkerProvider" value="true" />
         <entry key="com.intellij.sql.editor.SqlRecursiveCallLineMakerProvider" value="true" />
-        <entry key="com.intellij.ui.ColorLineMarkerProvider" value="false" />
+        <entry key="com.intellij.ui.ColorLineMarkerProvider" value="true" />
         <entry key="com.jetbrains.php.architecture.complexityMetrics.codeSmell.presentation.CodeSmellLineMarkerProvider" value="true" />
         <entry key="com.jetbrains.php.codeInsight.PhpMetaDeclarationLineMarkerProvider" value="true" />
         <entry key="com.jetbrains.php.codeInsight.PhpRecursiveCallLineMarkerProvider" value="true" />
