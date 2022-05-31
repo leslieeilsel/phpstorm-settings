@@ -4,6 +4,7 @@
     <option name="enableCompletions" value="false" />
     <option name="inlayTextColor" value="#6d5b97" />
     <option name="showIdeCompletions" value="true" />
+    <option name="checkForUpdate" value="false" />
     <option name="telemetryTermsAcceptedDate" value="2021-10-28T09:45:57.4708405+08:00[Asia/Shanghai]" />
   </component>
 </application>
