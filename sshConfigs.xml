@@ -1,0 +1,18 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="123.56.48.23" id="dda32f0f-b751-40e0-bed9-424d6c54b192" port="22" customName="123.56.48.23" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="123.56.48.23" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="39.98.147.207" id="bdc881dd-4f8d-4ff8-aaca-d460aa1fbeae" port="22" customName="安康公交__39.98.147.207" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="安康公交__39.98.147.207" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="123.56.48.23" id="50e16899-7a80-411e-980f-0db2f100c69f" port="22" customName="树牌文创__123.56.48.23" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="树牌文创__123.56.48.23" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="191.108.10.254" id="0b7722d7-a41b-44e7-af76-cd39ba7d52d1" port="22" customName="通信局普网__191.108.10.254" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="通信局普网__191.108.10.254" />
+      </sshConfig>
+    </configs>
+  </component>
+</application>
