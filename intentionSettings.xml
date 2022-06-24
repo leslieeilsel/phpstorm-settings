@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="微服务/在 Web 浏览器中打开" />
+  </component>
+</application>
